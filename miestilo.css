@@ -1,0 +1,48 @@
+#logo{
+    width: 100px;
+    height: 100px;
+   
+}
+#img2{
+    width: 45px;
+    height: 30px;
+}
+#titulo{
+   text-align: center;
+    background-color: gainsboro;
+}
+#tienda{
+    color: white;
+    background-color: black;
+}
+#mac13{
+    width: 230px;
+    height: 200px;
+}
+
+#precio{
+    color: green;
+}
+#iphone{
+    width: 150px;
+    height: 200px;
+}
+#empresa {
+    width: 400px;
+    height: 400px;
+}
+#tabla{
+    background-color: white;
+}
+#park{
+    width: 400px;
+    height: 300px;
+}
+#park2{
+    width: 400px;
+    height: 300px;
+}
+#wsp{
+    width: 40px;
+    height: 30px;
+}
